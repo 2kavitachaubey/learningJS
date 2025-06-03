@@ -17,4 +17,4 @@
 
 import { randomSuperhero } from "superheroes";
 let superheroes = randomSuperhero();
-console.log(`My Hero name is ${superheroes}.`);
+console.log(`My name is ${superheroes}.`);
