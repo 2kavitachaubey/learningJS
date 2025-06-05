@@ -43,4 +43,6 @@ $("h1").after("<button>Click</button>")  //after h1 tag
 $("h1").prepend("<button>Click</button>") //after h1 opening tag before content
 $("h1").append("<button>Click</button>") //after h1 content ,before h1 closing tag
 
+$("h1").css(color,"blue");
+
 // $("button").remove();
